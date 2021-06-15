@@ -5,7 +5,7 @@
 <a href="https://instagram.com/taewon_is1/"><img src="https://img.shields.io/badge/-@taewon_is1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&langs_count=8
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&layout=compact&hide=Visual%20Basic)
 
 ## 👩🏻‍💻 Tech Stack 
 <p align="center">
