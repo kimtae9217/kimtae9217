@@ -2,8 +2,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kimtae9217&show_icons=true&include_all_commits=true&count_private=true")
 
-<a href="https://instagram.com/taewon_is1/"><img src="https://img.shields.io/badge/-@taewon_is1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&layout=compact&hide=Visual%20Basic)
 
 ## 👩🏻‍💻 Tech Stack 
@@ -20,3 +18,5 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
+
+<a href="https://instagram.com/taewon_is1/"><img src="https://img.shields.io/badge/-@taewon_is1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
