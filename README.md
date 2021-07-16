@@ -43,7 +43,10 @@
 
 <h2>🍀 Me </h2>
 
-<p align="center"></h3><a href="https://instagram.com/taewon_is1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taewon_is1" height="30" width="40" /></a></p><br>
-
+<p align="center">
+  <a href="https://velog.io/@kimtae9217"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/taewon_is1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="mailto:kimtae9217@gmail.com"><img src="https://img.shields.io/badge/kimtae9217@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimtae9217&count_bg=%23FF8888&title_bg=%239BB1FF&icon=&icon_color=%23D99595&title=visit+&edge_flat=false)](https://hits.seeyoufarm.com)
