@@ -44,8 +44,8 @@
 <h2>🍀 Me </h2>
 
 <p align="center">
-  <a href="https://velog.io/@kimtae9217"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/taewon_is1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp
+<!--   <a href="https://velog.io/@kimtae9217"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/taewon_is1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp -->
   <a href="mailto:kimtae9217@gmail.com"><img src="https://img.shields.io/badge/kimtae9217@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
