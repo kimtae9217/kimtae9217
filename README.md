@@ -3,7 +3,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kimtae9217&show_icons=true&include_all_commits=true&count_private=true")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&layout=compact&hide=Visual%20Basic)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&layout=compact)
 
 
 <h2>🍀 Me </h2>
