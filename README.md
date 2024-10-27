@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  &nbsp;개발자를 꿈꾸는 김태원입니다. 😎 
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  &nbsp;기술로 삶의 가치를 높이는 개발자 김태원입니다. 😎 
 ### *"How to re-design computer systems for enhancing the quality of human life?"*
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kimtae9217&show_icons=true&include_all_commits=true&count_private=true")
