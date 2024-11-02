@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtae9217&layout=compact)
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!-- ![](./profile-3d-contrib/profile-gitblock.svg)-->
 
 <h2>🍀 Me </h2>
 
